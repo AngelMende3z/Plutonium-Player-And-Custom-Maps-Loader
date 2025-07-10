@@ -1,4 +1,4 @@
-# Plutonium_T6_Zombies_Player_Select_And_Custom_Suvival_maps
+# Plutonium Player Select And Custom Maps Loader
 
 # This project now adds player selection options for every map
 
